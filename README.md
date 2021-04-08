@@ -1,13 +1,13 @@
-# Template2D-Unity202015f1
+# MergeConflict-pkikl
 
 ### Project description: 
-Introduction/Project summary 
+Creating a merge conflict on purpose. 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+Only ReadME File
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -24,5 +24,6 @@ incl. progress in percent
 ### Limitations: 
 
 ### Lessons Learned: 
+creating and solving a merge conflict
 
-Copyright by you :)
+Copyright by Peter Kikl
