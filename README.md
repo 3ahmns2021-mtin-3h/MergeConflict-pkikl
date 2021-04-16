@@ -1,5 +1,3 @@
 # MergeConflict-pkikl
 
-Änderung offline
-
-
+Fixed Merge Conflict.
