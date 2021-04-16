@@ -1,3 +1,3 @@
 # MergeConflict-pkikl
 
-Merge Conflict Branches solved.
+Merge Conflict Clone 1.
