@@ -1,3 +1,3 @@
 # MergeConflict-pkikl
 
-Merge Conflict main Branch.
+Merge Conflict Branches solved.
