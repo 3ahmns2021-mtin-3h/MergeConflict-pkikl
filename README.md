@@ -1,3 +1,3 @@
 # MergeConflict-pkikl
 
-Fixed Merge Conflict.
+Merge Conflict New Branch.
