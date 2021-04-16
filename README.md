@@ -1,3 +1,3 @@
 # MergeConflict-pkikl
 
-Merge Conflict Clone 1.
+Merge Conflict Clone 2.
